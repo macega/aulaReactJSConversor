@@ -1,2 +1,0 @@
-# aulaReactJSConversor
-Created with CodeSandbox
